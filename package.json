@@ -1,0 +1,6 @@
+{
+  "name": "data-binder",
+  "version": "0.0.1",
+  "description": "Bind data arrays to any type of JS objects",
+  "type": "module"
+}
