@@ -1,6 +1,6 @@
 {
   "name": "data-bind-mapper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bind data arrays to any type of JS objects",
   "type": "module",
   "unpkg": "dist/data-bind-mapper.min.js",
