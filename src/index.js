@@ -32,7 +32,7 @@ export default class DataBindMapper {
     });
 
     const dataIdsMap = new Map(data.map(d => [this.#id(d), d]));
-    this.#dataMap.entries().forEach(([dId, o]) => {
+    this.#dataMap.forEach((o, dId) => {
       if (!dataIdsMap.has(dId)) {
         this.#removeObj(o, dId);
         this.#dataMap.delete(dId);
