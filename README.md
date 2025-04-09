@@ -16,7 +16,7 @@ import DataBindMapper from 'data-bind-mapper';
 ```
 or using a *script* tag
 ```html
-<script src="//unpkg.com/data-bind-mapper"></script>
+<script src="//cdn.jsdelivr.net/npm/data-bind-mapper"></script>
 ```
 then
 ```js

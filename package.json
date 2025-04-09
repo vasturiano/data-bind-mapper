@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "Bind data arrays to any type of JS objects",
   "type": "module",
+  "jsdelivr": "dist/data-bind-mapper.min.js",
   "unpkg": "dist/data-bind-mapper.min.js",
   "main": "dist/data-bind-mapper.mjs",
   "module": "dist/data-bind-mapper.mjs",
